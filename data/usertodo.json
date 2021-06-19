@@ -1,0 +1,28 @@
+[
+    {
+        "user_id": "eb9940a8-7074-4610-b83a-01204a41e47c",
+        "todos": [
+            {
+                "id": "1aa55a57-ceb4-4580-be0c-7dcaf7021e88",
+                "task": "workout"
+            },
+            {
+                "id": "86e75033-9c07-462b-b0dc-a697971dfeae",
+                "task": "studying"
+            }
+        ]
+    },
+    {
+        "user_id": "f3add2c7-f55b-473e-be14-cddb64dd2f2f",
+        "todos": []
+    },
+    {
+        "user_id": "89ce8b20-526b-4a95-97d1-14631c22c449",
+        "todos": [
+            {
+                "task": "reading",
+                "id": "524dc303-7d6b-4114-a24b-f3e99f12e3d2"
+            }
+        ]
+    }
+]
